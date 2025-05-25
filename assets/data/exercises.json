@@ -1,0 +1,144 @@
+{
+  "exercises": [
+    {
+      "name": "Morning Jog",
+      "calories": 300,
+      "duration": 30,
+      "type": "Cardio",
+      "description": "A light jog to start your day"
+    },
+    {
+      "name": "Yoga",
+      "calories": 150,
+      "duration": 45,
+      "type": "Flexibility",
+      "description": "Improve flexibility and reduce stress"
+    },
+    {
+      "name": "Eskista Dance",
+      "calories": 400,
+      "duration": 60,
+      "type": "Dance",
+      "description": "Traditional Ethiopian dance workout"
+    },
+    {
+      "name": "Bodyweight Circuit",
+      "calories": 350,
+      "duration": 45,
+      "type": "Strength",
+      "description": "Full body workout using body weight"
+    },
+    {
+      "name": "Traditional Wrestling",
+      "calories": 500,
+      "duration": 60,
+      "type": "Strength",
+      "description": "Traditional Ethiopian wrestling training"
+    },
+    {
+      "name": "Jump Rope",
+      "calories": 250,
+      "duration": 20,
+      "type": "Cardio",
+      "description": "High-intensity cardio workout"
+    },
+    {
+      "name": "Push-ups",
+      "calories": 100,
+      "duration": 15,
+      "type": "Strength",
+      "description": "Upper body strength exercise"
+    },
+    {
+      "name": "Squats",
+      "calories": 120,
+      "duration": 15,
+      "type": "Strength",
+      "description": "Lower body strength exercise"
+    },
+    {
+      "name": "Plank",
+      "calories": 80,
+      "duration": 10,
+      "type": "Core",
+      "description": "Core strengthening exercise"
+    },
+    {
+      "name": "Burpees",
+      "calories": 200,
+      "duration": 20,
+      "type": "Cardio",
+      "description": "Full body cardio exercise"
+    },
+    {
+      "name": "Mountain Hiking",
+      "calories": 450,
+      "duration": 90,
+      "type": "Endurance",
+      "description": "Climbing Ethiopian highlands for fitness"
+    },
+    {
+      "name": "Farm Work Simulation",
+      "calories": 380,
+      "duration": 60,
+      "type": "Functional",
+      "description": "Mimics daily physical labor in rural settings"
+    },
+    {
+      "name": "Walking Uphill",
+      "calories": 260,
+      "duration": 40,
+      "type": "Cardio",
+      "description": "Common Ethiopian terrain walking exercise"
+    },
+    {
+      "name": "Cultural Stick Fighting Practice",
+      "calories": 300,
+      "duration": 30,
+      "type": "Strength",
+      "description": "Simulated version of traditional stick practice"
+    },
+    {
+      "name": "Stretching Routine",
+      "calories": 70,
+      "duration": 20,
+      "type": "Flexibility",
+      "description": "Basic body stretches for mobility"
+    },
+    {
+      "name": "Bicycle Ride",
+      "calories": 270,
+      "duration": 45,
+      "type": "Cardio",
+      "description": "Riding around local roads and paths"
+    },
+    {
+      "name": "Stone Lifting",
+      "calories": 320,
+      "duration": 25,
+      "type": "Strength",
+      "description": "Traditional Ethiopian stone lifting training"
+    },
+    {
+      "name": "Soccer Drills",
+      "calories": 330,
+      "duration": 45,
+      "type": "Cardio",
+      "description": "Common football training drills"
+    },
+    {
+      "name": "Donkey Load Walk Simulation",
+      "calories": 390,
+      "duration": 50,
+      "type": "Functional",
+      "description": "Carrying weight on back like rural transport"
+    },
+    {
+      "name": "Community Clean-up Walk",
+      "calories": 280,
+      "duration": 60,
+      "type": "Light Cardio",
+      "description": "Light cardio exercise from collective community activity"
+    }
+  ]
+}

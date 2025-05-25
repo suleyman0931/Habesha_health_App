@@ -1,0 +1,144 @@
+{
+  "meals": [
+    {
+      "name": "Shiro",
+      "calories": 350,
+      "category": "Lunch",
+      "description": "Traditional Ethiopian ground chickpea stew",
+      "image": "assets/images/shiro.png"
+    },
+    {
+      "name": "Doro Wat",
+      "calories": 450,
+      "category": "Dinner",
+      "description": "Spicy Ethiopian chicken stew",
+      "image": "assets/images/doro_wat.jpg"
+    },
+    {
+      "name": "Tibs",
+      "calories": 400,
+      "category": "Dinner",
+      "description": "Sautéed meat and vegetables",
+      "image": "assets/images/tibs.jpg"
+    },
+    {
+      "name": "Kitfo",
+      "calories": 380,
+      "category": "Lunch",
+      "description": "Ethiopian-style beef tartare",
+      "image": "assets/images/kitfo.jpg"
+    },
+    {
+      "name": "Genfo",
+      "calories": 300,
+      "category": "Breakfast",
+      "description": "Traditional Ethiopian porridge",
+      "image": "assets/images/genfo.jpg"
+    },
+    {
+      "name": "Ful",
+      "calories": 250,
+      "category": "Breakfast",
+      "description": "Fava bean stew",
+      "image": "assets/images/ful.jpg"
+    },
+    {
+      "name": "Beyaynetu",
+      "calories": 500,
+      "category": "Lunch",
+      "description": "Assortment of various dishes",
+      "image": "assets/images/beyaynet.jpg"
+    },
+    {
+      "name": "Dulet",
+      "calories": 320,
+      "category": "Lunch",
+      "description": "Minced tripe and liver",
+      "image": "assets/images/dulet.jpg"
+    },
+    {
+      "name": "Kolo",
+      "calories": 150,
+      "category": "Snack",
+      "description": "Roasted barley and chickpeas",
+      "image": "assets/images/kolo.jpg"
+    },
+    {
+      "name": "Dabo Kolo",
+      "calories": 200,
+      "category": "Snack",
+      "description": "Small pieces of baked bread",
+      "image": "assets/images/dabo_kolo.jpg"
+    },
+    {
+      "name": "Injera Firfir",
+      "calories": 330,
+      "category": "Breakfast",
+      "description": "Spicy shredded injera mixed with berbere",
+      "image": "assets/images/injera_firfir.jpg"
+    },
+    {
+      "name": "Chechebsa",
+      "calories": 340,
+      "category": "Breakfast",
+      "description": "Fried flatbread pieces with spiced butter",
+      "image": "assets/images/chechebsa.jpg"
+    },
+    {
+      "name": "Alicha Wot",
+      "calories": 310,
+      "category": "Lunch",
+      "description": "Mild stew made with meat and turmeric",
+      "image": "assets/images/alicha_wot.jpg"
+    },
+    {
+      "name": "Atakilt Wot",
+      "calories": 270,
+      "category": "Lunch",
+      "description": "Cabbage, carrot, and potato stew",
+      "image": "assets/images/atakilt_wot.jpg"
+    },
+    {
+      "name": "Tihlo",
+      "calories": 320,
+      "category": "Dinner",
+      "description": "Barley dough balls served with spicy sauce",
+      "image": "assets/images/tihlo.jpg"
+    },
+    {
+      "name": "Nech Azmud Bread",
+      "calories": 180,
+      "category": "Snack",
+      "description": "White bread flavored with Ethiopian caraway",
+      "image": "assets/images/nech_azmud_bread.jpg"
+    },
+    {
+      "name": "Fatira",
+      "calories": 360,
+      "category": "Breakfast",
+      "description": "Layered fried dough with honey or scrambled eggs",
+      "image": "assets/images/fatira.jpg"
+    },
+    {
+      "name": "Tuna Injera Roll",
+      "calories": 280,
+      "category": "Lunch",
+      "description": "Injera wrapped around tuna and vegetables",
+      "image": "assets/images/tuna_injera_roll.jpg"
+    },
+    {
+      "name": "Yetsom Beyaynetu",
+      "calories": 410,
+      "category": "Lunch",
+      "description": "Vegan mixed platter for fasting days",
+      "image": "assets/images/yetsom_beyaynetu.jpg"
+    },
+    {
+      "name": "Ambasha",
+      "calories": 260,
+      "category": "Snack",
+      "description": "Sweet, spiced holiday bread",
+      "image": "assets/images/ambasha.jpg"
+    }
+  ]
+}
